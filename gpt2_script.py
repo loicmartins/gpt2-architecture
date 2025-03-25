@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 ## Libraries used
-!pip install tiktoken
 import time
 import numpy as np
 import tiktoken
