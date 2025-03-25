@@ -3,7 +3,7 @@ Notebook and Python Script to understand the "basic" inner workings of LLMs.
 
 ---
 
-📍This repository aims to begin to understand the inner workings of LLMs in the context of cybersecurity. Often focused on the infrastructure of AI systems, we forget that one of the main threats comes from the model itself. 
+📍The aim of this repository is to provide an initial understanding of the inner workings of LLMs in the context of cybersecurity. Often focused on the infrastructure of AI systems, we forget that one of the main threats comes from the model itself. 
 For example, we can access and modify the model and its internal representations. This can be compared to manipulating a person. By talking to them, we try to change their state of mind, so that they change their behavior. And this can be very dangerous, because you can leave a model on the market that manipulates people for various purposes: politics, swindling, obtaining information...
 
 That's why I've tried to explain the “basic” architecture of an LLM using a GPT-2. The model presented is not intended to be trained, but rather to be used to visualize its inner workings.
