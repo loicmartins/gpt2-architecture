@@ -1,12 +1,11 @@
 # gpt2-architecture
-Notebook and Python Script to understand the "basic" inner workings of LLMs.
+Notebook and Python Script to understand the "basic" inner workings of LLMs: GPT2 model code explained line-by-line
 
 
 ---
 
 
-📍The aim of this repository is to provide an initial understanding of the inner workings of LLMs in the context of cybersecurity. Often focused on the infrastructure of AI systems, we forget that one of the main threats comes from the model itself. 
-For example, we can access and modify the model and its internal representations. This can be compared to manipulating a person. By talking to them, we try to change their state of mind, so that they change their behavior. And this can be very dangerous, because you can leave a model on the market that manipulates people for various purposes: politics, swindling, obtaining information...
+📍For me, the most important thing is not knowing how to use the PyTorch framework, but the most important thing is to understand the mechanism behind every line of code, every class and every function. This repository is not a programming tutorial but an analysis of the GPT2 model code to understand the overall architecture of a Large Language Model. Of course, there are tons of architectures out there, but GPT2 seems to be accessible and a good start.
 
 That's why I've tried to explain the “basic” architecture of an LLM using a GPT-2. The model presented is not intended to be trained, but rather to be used to visualize its inner workings.
 
